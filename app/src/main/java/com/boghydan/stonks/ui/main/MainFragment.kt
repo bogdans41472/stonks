@@ -1,4 +1,4 @@
-package com.boghydan.hackernews.ui.main
+package com.boghydan.stonks.ui.main
 
 import androidx.fragment.app.Fragment
 

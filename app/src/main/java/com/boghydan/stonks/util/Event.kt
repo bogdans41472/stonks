@@ -1,4 +1,4 @@
-package com.boghydan.hackernews.util
+package com.boghydan.stonks.util
 
 class Event<T>(
     private val content: T

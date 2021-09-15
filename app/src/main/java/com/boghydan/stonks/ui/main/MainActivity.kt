@@ -1,12 +1,12 @@
-package com.boghydan.hackernews.ui.main
+package com.boghydan.stonks.ui.main
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Toast
 import androidx.lifecycle.ViewModelProvider
-import com.boghydan.hackernews.R
-import com.boghydan.hackernews.ui.DataStateListener
-import com.boghydan.hackernews.util.DataState
+import com.boghydan.stonks.R
+import com.boghydan.stonks.ui.DataStateListener
+import com.boghydan.stonks.util.DataState
 
 class MainActivity : AppCompatActivity(), DataStateListener {
 

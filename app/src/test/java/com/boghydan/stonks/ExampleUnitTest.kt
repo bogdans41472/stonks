@@ -1,4 +1,4 @@
-package com.boghydan.hackernews
+package com.boghydan.stonks
 
 import org.junit.Test
 
